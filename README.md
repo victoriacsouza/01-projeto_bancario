@@ -1,4 +1,5 @@
 Projeto Bancário - SENAC
+
 🚀 Finalidade
 O projeto é a conclusão de aprendizados do módulo V da RESÍLIA EDUCAÇÃO. Nele, fomos orientados a estar desenvolvendo um aplicativo dinâmico completo de tarefas.
 
